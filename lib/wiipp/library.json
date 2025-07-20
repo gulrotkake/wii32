@@ -1,0 +1,23 @@
+{
+  "name": "wiipp",
+  "version": "0.0.1",
+  "description": "An ESP32 library for interacting with a wiimote/balance board",
+  "keywords": "wii, balanceboard, wiimote",
+  "headers": "wiipp.h",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/gulrotkake/esp32-wiipp.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Michael Mortensen",
+      "url": "https://tightloop.io",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "*",
+  "platforms": ["espressif32"]
+}
